@@ -1,7 +1,9 @@
 # Visualization-on-pygame-11-44
 Visualization of the task as a game
 
-Task: 44. A light rope passes over a light,
+Task: 
+
+44. A light rope passes over a light,
 frictionless pulley. One end is fastened
 to a bunch of bananas of
 mass M, and a monkey of mass M
