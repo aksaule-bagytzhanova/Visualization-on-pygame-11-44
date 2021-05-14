@@ -17,3 +17,18 @@ the system about the pulley axis.
 determine the total angular momentum
 about the pulley axis and describe the motion of
 the system. (c) Will the monkey reach the bananas?
+
+Answer:
+(a) Στ = MgR −MgR = 0
+(b) Στ = dL
+dt
+, and since Στ = 0 , L = constant.
+Since the total angular momentum of the system is zero, the
+monkey and bananas move upward with the same speed
+at any instant, and he will not reach the bananas (until they
+get tangled in the pulley). Also, since the tension in the rope is
+the same on both sides, Newton’s second law applied to the
+monkey and bananas give the same acceleration upwards.
+
+
+#Please download everything and put everything in one file. Install pygame, sys libraries
