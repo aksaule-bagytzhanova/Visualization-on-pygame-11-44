@@ -2,7 +2,6 @@
 Visualization of the task as a game
 
 Task: 
-
 44. A light rope passes over a light,
 frictionless pulley. One end is fastened
 to a bunch of bananas of
