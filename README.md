@@ -1,7 +1,7 @@
 # Visualization-on-pygame-11-44
 Visualization of the task as a game
 
-# Task: 
+### Task: 
 44. A light rope passes over a light,
 frictionless pulley. One end is fastened
 to a bunch of bananas of
@@ -18,7 +18,7 @@ determine the total angular momentum
 about the pulley axis and describe the motion of
 the system. (c) Will the monkey reach the bananas?
 
-# Answer:
+### Answer:
 (a) Στ = MgR −MgR = 0
 (b) Στ = dL
 dt
@@ -31,4 +31,4 @@ the same on both sides, Newton’s second law applied to the
 monkey and bananas give the same acceleration upwards.
 
 
-# Please download everything and put everything in one file. Install pygame, sys libraries
+### Please download everything and put everything in one file. Install pygame, sys libraries
